@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f8d141d-110e-4706-b9a1-82accd042227" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pitzi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agreement_table.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analyze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V1 - Norcross AI-Date: 1 6 2018                              Video: #1 Norcross (Training).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V10 - McNeil AI-Date:                              Video: #10 McNeill.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V11 - Shnieder AI-Date:                              Video: #11 Schnieder.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V2 - Sarnat AI-Date:                              Video: #2 Sarnat (Transcript).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V3 - Newman AI-Date:                              Video: #3 Newman (Transcript+non verbals).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V4 - Shafranske AI-Date:                              Video: #4 Shafranske.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V5 - Greenberg AI-Date:                              Video: #5 Greenberg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V6 - Brown AI-Date:                              Video: #6 Brown.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V7 - Ladany AI-Date:                              Video: #7 Ladany.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V8 - Holloway AI-Date:                              Video: #8 Holloway.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/V9 - Fosha AI-Date:                              Video: #9 Fosha.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyze.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +74,7 @@
       <updated>1584990628706</updated>
       <workItem from="1584990630503" duration="1337000" />
       <workItem from="1585511851004" duration="3474000" />
-      <workItem from="1586116254390" duration="1194000" />
+      <workItem from="1586116254390" duration="3295000" />
     </task>
     <servers />
   </component>
@@ -98,42 +82,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1112" height="466" key="DebuggerActiveHint" timestamp="1586117391213">
+    <state width="1112" height="466" key="DebuggerActiveHint" timestamp="1586118350119">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1112" height="466" key="DebuggerActiveHint/0.23.1792.1026@0.23.1792.1026" timestamp="1586117391213" />
-    <state width="1750" height="368" key="GridCell.Tab.0.bottom" timestamp="1586117426138">
+    <state width="1112" height="466" key="DebuggerActiveHint/0.23.1792.1026@0.23.1792.1026" timestamp="1586118350119" />
+    <state width="1750" height="551" key="GridCell.Tab.0.bottom" timestamp="1586119013570">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1750" height="368" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1586117426138" />
-    <state width="1750" height="368" key="GridCell.Tab.0.center" timestamp="1586117426137">
+    <state width="1750" height="551" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1586119013570" />
+    <state width="1750" height="551" key="GridCell.Tab.0.center" timestamp="1586119013568">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1750" height="368" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1586117426137" />
-    <state width="1750" height="368" key="GridCell.Tab.0.left" timestamp="1586117426136">
+    <state width="1750" height="551" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1586119013568" />
+    <state width="1750" height="551" key="GridCell.Tab.0.left" timestamp="1586119013568">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1750" height="368" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1586117426136" />
-    <state width="1750" height="368" key="GridCell.Tab.0.right" timestamp="1586117426137">
+    <state width="1750" height="551" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1586119013568" />
+    <state width="1750" height="551" key="GridCell.Tab.0.right" timestamp="1586119013569">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1750" height="368" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1586117426137" />
-    <state width="1750" height="368" key="GridCell.Tab.1.bottom" timestamp="1586117426139">
+    <state width="1750" height="551" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1586119013569" />
+    <state width="1750" height="551" key="GridCell.Tab.1.bottom" timestamp="1586118990243">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1750" height="368" key="GridCell.Tab.1.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1586117426139" />
-    <state width="1750" height="368" key="GridCell.Tab.1.center" timestamp="1586117426138">
+    <state width="1750" height="551" key="GridCell.Tab.1.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1586118990243" />
+    <state width="1750" height="551" key="GridCell.Tab.1.center" timestamp="1586118990243">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1750" height="368" key="GridCell.Tab.1.center/0.23.1792.1026@0.23.1792.1026" timestamp="1586117426138" />
-    <state width="1750" height="368" key="GridCell.Tab.1.left" timestamp="1586117426138">
+    <state width="1750" height="551" key="GridCell.Tab.1.center/0.23.1792.1026@0.23.1792.1026" timestamp="1586118990243" />
+    <state width="1750" height="551" key="GridCell.Tab.1.left" timestamp="1586118990243">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1750" height="368" key="GridCell.Tab.1.left/0.23.1792.1026@0.23.1792.1026" timestamp="1586117426138" />
-    <state width="1750" height="368" key="GridCell.Tab.1.right" timestamp="1586117426139">
+    <state width="1750" height="551" key="GridCell.Tab.1.left/0.23.1792.1026@0.23.1792.1026" timestamp="1586118990243" />
+    <state width="1750" height="551" key="GridCell.Tab.1.right" timestamp="1586118990243">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state width="1750" height="368" key="GridCell.Tab.1.right/0.23.1792.1026@0.23.1792.1026" timestamp="1586117426139" />
+    <state width="1750" height="551" key="GridCell.Tab.1.right/0.23.1792.1026@0.23.1792.1026" timestamp="1586118990243" />
     <state x="397" y="160" key="SettingsEditor" timestamp="1585513638115">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
@@ -144,18 +128,28 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/analyze.py</url>
-          <line>72</line>
+          <line>106</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/analyze.py</url>
-          <line>64</line>
+          <line>100</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyze.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyze.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pitzi$analyze.coverage" NAME="analyze Coverage Results" MODIFIED="1586116504681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pitzi$analyze.coverage" NAME="analyze Coverage Results" MODIFIED="1586118984087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
