@@ -82,16 +82,16 @@ def main():
     records = []
     for intervention_name in all_per_minute_sums:
         cntr = collections.Counter(all_per_minute_sums[intervention_name])
-    ones = cntr[1]
-    twos = cntr[2]
-    threes = cntr[3]
+        ones = cntr[1]
+        twos = cntr[2]
+        threes = cntr[3]
 
-    nonzeroes = ones + twos + threes
+        nonzeroes = ones + twos + threes
 
-    fractions = np.round(np.array([ones, twos, threes]) / nonzeroes * 100, 0).astype(np.int32)
+        fractions = np.round(np.array([ones, twos, threes]) / nonzeroes * 100, 0).astype(np.int32)
 
-    record = {'name': intervention_name, '1': fractions[0], '2': fractions[1], '3': fractions[2], 'cnt': nonzeroes}
-    records.append(record)
+        record = {'name': intervention_name, '1': fractions[0], '2': fractions[1], '3': fractions[2], 'cnt': nonzeroes}
+        records.append(record)
 
     df_agreement = pd.DataFrame.from_records(records)
     df_agreement['net'] = df_agreement['3'] + df_agreement['2'] - df_agreement['1']
