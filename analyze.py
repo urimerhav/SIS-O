@@ -21,7 +21,7 @@ def main():
 
         session_minute_sums = []
         for val_row in df.values[1:32]:
-            intervention_name = val_row[1]
+            intervention_name =val_row[1]
             intervention_names.append(intervention_name)
             sum_titles_loc = np.where(df.keys() == 'Sum titles.1')[0][0]
             val_row = val_row[0:sum_titles_loc]
@@ -106,6 +106,7 @@ def main():
     plt.show()
 
     np.array(list(intervention_scores.values()), np.int32)
+
 
 if __name__ == '__main__':
     main()
