@@ -107,5 +107,5 @@ def main():
 
     np.array(list(intervention_scores.values()), np.int32)
 
-    if __name__ == '__main__':
-        main()
+if __name__ == '__main__':
+    main()
